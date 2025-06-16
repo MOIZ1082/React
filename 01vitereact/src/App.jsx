@@ -1,12 +1,12 @@
 import Papa from "./Papa"
 
 function App() {
-  
+  const username = 'chai aur code'
 
   return (
     <>
       <Papa/>
-      <h1>papa or react</h1>
+      <h1>papa or react {username}</h1>
     </>
   )
 }
