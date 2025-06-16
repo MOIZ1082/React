@@ -1,8 +1,13 @@
+import Papa from "./Papa"
+
 function App() {
   
 
   return (
-   <h1>React with Vite</h1>
+    <>
+      <Papa/>
+      <h1>papa or react</h1>
+    </>
   )
 }
 
