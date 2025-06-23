@@ -7,5 +7,5 @@ const users = [{
 }]
 
 const names = users.map((user) => {
-    console.log(user.name)
+    console.log(user)
 })
